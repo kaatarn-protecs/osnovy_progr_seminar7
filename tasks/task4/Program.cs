@@ -53,3 +53,5 @@ Console.WriteLine();
 
 int res = SumDiagonalElements(array2d);
 Console.WriteLine($"Сумма диоганальных элементов = {res}");
+
+// string joy - вывод одномерного массива
